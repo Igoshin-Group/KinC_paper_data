@@ -33,3 +33,4 @@ xlabel("time(h)")
  ylabel("total concentration")
 xlim([3,8])
 legend("KinA","Sda")
+

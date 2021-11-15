@@ -19,7 +19,7 @@ end
 
 
 %%
- plot(tt,tA,'r');hold on ;
+plot(tt,tA,'r');hold on ;
 plot(tt,tC,'g');
 yyaxis right;
 plot(tt,gr_t(tt),'g');
