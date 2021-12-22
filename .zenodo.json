@@ -8,7 +8,7 @@
     "upload_type": "Dataset",
     "publication_date": "2021-11-15",
     "creators": [
-      { "orcid":"0000-0002-0601-5903"
+      { "orcid":"0000-0002-0601-5903",
         "affiliation": "Rice University",
         "name": "Zhuo Chen"
       },
