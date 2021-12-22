@@ -1,0 +1,52 @@
+{
+    "description":
+    "Code and data used in the paper 'Bacillus subtilis histidine  kinase KinC activates biofilm formation by controlling heterogeneity of single-cell responses'  https://doi.org/10.1128/mBio.01694-21 ",
+    "license": {
+      "id": "CC-BY-4.0"
+    },
+    "title": "Code and data for 'Bacillus subtilis histidine kinase KinC activates biofilm formation by controlling heterogeneity of single-cell responses'",
+    "version": "1.0",
+    "upload_type": "Dataset",
+    "publication_date": "2021-11-15",
+    "creators": [d
+      { "orcid":"0000-0002-0601-5903"
+        "affiliation": "Rice University",
+        "name": "Zhuo Chen"
+      },
+      {
+        "affiliation": "University of Houston",
+        "name": "Priyanka Srivastava"
+      },
+      {
+        "affiliation": "University of Houston",
+        "name": " Brenda Zarazua-Osorio"
+      },
+      {
+        "affiliation": "University of Houston",
+        "name": "Anuradha Marathe"
+      },
+      {
+        "orcid": "0000-0003-0060-5328",
+        "affiliation": "University of Houston",
+        "name": "Masaya Fujita"
+      },
+      {
+        "orcid": "0000-0002-1449-4772",
+        "affiliation": "Rice University",
+        "name": "Oleg A Igoshin"
+      }
+    ],
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/Igoshin-Group/KinC_paper_data/tree/1.0",
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.5701606",
+            "relation": "isVersionOf"
+        }
+    ]
+}

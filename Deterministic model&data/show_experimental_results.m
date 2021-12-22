@@ -118,3 +118,27 @@ dcds=plot(ts,msggdcdstap,'rs--','MarkerSize',10);
 legend([wt,dc,ds,dcds],'wt','ΔkinC','Δsda','ΔkinCΔsda');
 xlabel('time(h)')
 ylabel('tapA promoter activity (MU)')
+
+%%
+w=[20.85	41.03	170.17	316.79	449.84	504.07]	;
+a=[18.41	23.21	51.49	119.83	139.82	154.13	];
+b=[32.80	46.67	80.94	196.38	230.17	242.59];
+c=[4.72	8.00	73.77	160.31	217.20	213.37	];
+d=[39.95	77.25	255.37	301.69	415.29	504.75	];
+t=3:8;
+we=[2.95	4.47	17.98	43.88	86.13	86.76];
+ae=[2.76	3.79	13.10	19.96	27.67	20.06];
+be=[9.81	12.46	10.11	62.68	62.01	30.60];
+ce=[1.34	2.40	24.30	36.07	47.05	65.87];
+de=[10.76	11.07	45.84	53.32	61.56	47.78];
+
+errorbar(t,w,we,'ko-');hold on;
+errorbar(t,a,ae,'ro-');hold on;
+errorbar(t,b,be,'go-');hold on;
+errorbar(t,c,ce,'bo-');hold on;
+
+%%
+errorbar(t,w,we,'ko-');hold on;
+errorbar(t,d,de,'ro-');hold on;
+
+
