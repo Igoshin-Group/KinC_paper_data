@@ -1,6 +1,5 @@
 {
-    "description":
-    "Code and data used in the paper 'Bacillus subtilis histidine  kinase KinC activates biofilm formation by controlling heterogeneity of single-cell responses'  https://doi.org/10.1128/mBio.01694-21 ",
+    "description":"Code and data used in the paper 'Bacillus subtilis histidine  kinase KinC activates biofilm formation by controlling heterogeneity of single-cell responses'  https://doi.org/10.1128/mBio.01694-21",
     "license": {
       "id": "CC-BY-4.0"
     },
@@ -8,7 +7,7 @@
     "version": "1.0",
     "upload_type": "Dataset",
     "publication_date": "2021-11-15",
-    "creators": [d
+    "creators": [
       { "orcid":"0000-0002-0601-5903"
         "affiliation": "Rice University",
         "name": "Zhuo Chen"
